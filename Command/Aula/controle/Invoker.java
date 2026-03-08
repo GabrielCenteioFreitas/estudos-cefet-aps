@@ -44,5 +44,10 @@ public class Invoker {
 	
 	//Como desfazer de uma só vez todos os comandos?
 	//Posso criar um método que chama o undo() até a pilha esvaziar
+	public static void undoAll() {
+		while (!historico.isEmpty()) {
+			undo();
+		}
+	}
 
 }

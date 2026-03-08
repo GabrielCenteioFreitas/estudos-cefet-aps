@@ -8,6 +8,8 @@ public class Cliente {
 		AlunoService.buscarAlunoId(1);
 		AlunoService.buscarAlunoId(2);
 		
+		AlunoService.buscarAlunoNome("Aluno do id 1");
+		AlunoService.buscarAlunoNome("Aluno do id 2");
 	}
 
 }

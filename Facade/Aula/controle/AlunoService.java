@@ -21,4 +21,10 @@ public class AlunoService {
 		//Basta chamar o método correspondente disponível
 		//na classe ModelFacade
 	}
+	
+	public static void buscarAlunoNome(String nome) {
+		ModelFacade facade = new ModelFacade();
+		Aluno a = facade.buscaAlunoPorNome(nome);
+		a.imprimeAluno();
+	}
 }

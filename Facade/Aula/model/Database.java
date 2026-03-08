@@ -11,6 +11,13 @@ public class Database {
 	}
 	//Podemos criar mais consultas...
 	//e também para outras entidades...
+
+	protected static Aluno buscaAlunoPorNome(String nome) {
+		System.out.println("Select * from Aluno where nome = " + nome);
+		String partes[] = nome.split(" ");
+		long id = Long.parseLong(partes[partes.length - 1]);
+		return new Aluno(id, nome);
+	}
 	
 	
 	//Algumas consultas podem ser expostas na fachada

@@ -10,6 +10,10 @@ public class ModelFacade {
 		return Database.buscaAlunoPorId(id);
 	}
 	
+	public static Aluno buscaAlunoPorNome(String nome) {
+		return Database.buscaAlunoPorNome(nome);
+	}
+	
 	//... outras consultas que quero expor ao mundo exterior
 	// "pega e passa"
 }

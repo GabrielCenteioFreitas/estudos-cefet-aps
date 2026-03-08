@@ -17,6 +17,7 @@ public class Cliente {
 		
 		
 		//Como desfazer de uma só vez todos os comandos?
+		Invoker.undoAll();
 	}
 
 	
