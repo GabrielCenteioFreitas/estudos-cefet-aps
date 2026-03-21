@@ -1,8 +1,10 @@
-import java.util.ArrayList;
+package Singleton.Exercicio;
+
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 import java.util.Stack;
+
+import Command.Aula.controle.*;
 
 public class Invoker {
 	private static Invoker instancia;
@@ -11,9 +13,9 @@ public class Invoker {
 	static Stack<ICommand> historico = new Stack<ICommand>();
 	
 	static {
-		comandos.put("A", new ComandoAlterar());
-		comandos.put("B", new ComandoIncluir());
-		comandos.put("ComandoA", new ComandoAlterar());
+		comandos.put("A", new ComandoA());
+		comandos.put("B", new ComandoB());
+		comandos.put("ComandoA", new ComandoA());
 	}
 
 	private Invoker() {}

@@ -1,6 +1,6 @@
-package controle;
+package Facade.Exercicio.controle;
 
-import model.ModelFacade;
+import Facade.Exercicio.model.ModelFacade;
 
 public class ComandoAlterar implements ICommand {
 	@Override

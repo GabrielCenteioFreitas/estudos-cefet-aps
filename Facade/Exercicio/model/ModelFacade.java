@@ -1,4 +1,4 @@
-package model;
+package Facade.Exercicio.model;
 
 public class ModelFacade {
   private static ModelFacade instancia;

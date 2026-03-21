@@ -1,4 +1,5 @@
-package controle;
+package Command.Exercicio.controle;
+
 import java.util.HashMap;
 import java.util.Map;
 import java.util.Stack;

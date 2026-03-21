@@ -1,6 +1,6 @@
 package AbstractFactory.Aula.principal;
 
-import fabrica.*;
+import AbstractFactory.Aula.fabrica.*;
 
 public class Cliente {
 

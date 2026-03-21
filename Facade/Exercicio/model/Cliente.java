@@ -1,4 +1,4 @@
-package model;
+package Facade.Exercicio.model;
 
 public class Cliente {
 	private long id;

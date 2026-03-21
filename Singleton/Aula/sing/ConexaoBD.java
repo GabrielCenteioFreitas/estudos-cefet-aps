@@ -1,4 +1,4 @@
-package sing;
+package Singleton.Aula.sing;
 
 //Esta classe é um Singleton
 public class ConexaoBD {

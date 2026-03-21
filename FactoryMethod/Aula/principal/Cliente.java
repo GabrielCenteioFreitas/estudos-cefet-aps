@@ -1,6 +1,6 @@
-package principal;
+package FactoryMethod.Aula.principal;
 
-import factorymethod.*;
+import FactoryMethod.Aula.factorymethod.*;
 
 public class Cliente {
 

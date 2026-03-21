@@ -1,4 +1,4 @@
-package controle;
+package Command.Aula.controle;
 
 //Interface para definir os métodos
 //que um Command PRECISA possuir

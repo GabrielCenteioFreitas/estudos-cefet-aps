@@ -1,6 +1,6 @@
-package controle;
+package Facade.Aula.controle;
 
-import model.*;
+import Facade.Aula.model.*;
 
 public class AlunoService {
 	//pode ter atributos

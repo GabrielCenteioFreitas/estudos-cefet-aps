@@ -1,4 +1,4 @@
-package model;
+package Facade.Exercicio.model;
 
 import java.util.ArrayList;
 import java.util.List;

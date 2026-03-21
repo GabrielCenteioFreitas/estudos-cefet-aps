@@ -1,4 +1,4 @@
-package model;
+package Command.Exercicio.model;
 
 public class Cliente {
 	private long id;

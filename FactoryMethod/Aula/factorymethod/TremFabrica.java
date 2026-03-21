@@ -1,4 +1,4 @@
-package factorymethod;
+package FactoryMethod.Aula.factorymethod;
 
 public class TremFabrica extends Logistica{
 

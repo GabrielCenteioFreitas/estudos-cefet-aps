@@ -1,4 +1,4 @@
-package controle;
+package Command.Aula.controle;
 
 public class ComandoA implements ICommand {
 

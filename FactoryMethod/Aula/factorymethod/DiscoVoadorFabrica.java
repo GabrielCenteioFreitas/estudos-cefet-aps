@@ -1,4 +1,4 @@
-package factorymethod;
+package FactoryMethod.Aula.factorymethod;
 
 public class DiscoVoadorFabrica extends Logistica{
 

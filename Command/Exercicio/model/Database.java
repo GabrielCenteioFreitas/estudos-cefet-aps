@@ -1,4 +1,4 @@
-package model;
+package Command.Exercicio.model;
 
 import java.util.ArrayList;
 import java.util.List;

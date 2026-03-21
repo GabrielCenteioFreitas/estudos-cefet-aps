@@ -1,4 +1,4 @@
-package factorymethod;
+package FactoryMethod.Aula.factorymethod;
 
 // Interface que define o "produto"
 public interface ITransporte {

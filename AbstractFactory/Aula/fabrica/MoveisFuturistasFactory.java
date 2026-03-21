@@ -1,6 +1,6 @@
 package AbstractFactory.Aula.fabrica;
 
-import produtos.*;
+import AbstractFactory.Aula.produtos.*;
 
 public class MoveisFuturistasFactory extends MoveisFactory {
 

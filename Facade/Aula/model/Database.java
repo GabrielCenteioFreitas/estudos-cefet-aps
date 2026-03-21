@@ -1,4 +1,4 @@
-package model;
+package Facade.Aula.model;
 
 //Classe que queremos proteger.
 //Responsável por realizar consultas ao BD

@@ -1,4 +1,4 @@
-package model;
+package Facade.Aula.model;
 
 //Classe de "fachada"
 public class ModelFacade {

@@ -1,4 +1,4 @@
-package estrategias;
+package Strategy.Aula.estrategias;
 
 public class MoonwalkStrategy implements IStrategy{
 

@@ -1,6 +1,6 @@
-package controle;
+package Command.Exercicio.controle;
 
-import model.Database;
+import Command.Exercicio.model.Database;
 
 public class ComandoExcluir implements ICommand {
 	@Override

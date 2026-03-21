@@ -1,4 +1,4 @@
-package sing;
+package Singleton.Aula.sing;
 
 public class Cliente {
 

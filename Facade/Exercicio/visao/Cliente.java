@@ -1,9 +1,12 @@
-package visao;
+package Facade.Exercicio.visao;
+
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
+
+import Command.Exercicio.controle.Invoker;
+
 import java.util.Scanner;
 
-import controle.Invoker;
 
 public class Cliente {
 

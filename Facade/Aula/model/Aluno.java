@@ -1,4 +1,4 @@
-package model;
+package Facade.Aula.model;
 
 //Exemplo de qualquer entidade
 //com seus atributos, construtores

@@ -1,4 +1,6 @@
-import estrategias.*;
+package Strategy.Aula;
+
+import Strategy.Aula.estrategias.*;
 
 public class Cliente {
 

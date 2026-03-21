@@ -1,4 +1,4 @@
-package estrategias;
+package Strategy.Aula.estrategias;
 
 //Definição das estratégias para ir do ponto A ao B
 public interface IStrategy {
